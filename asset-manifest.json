@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react_NFLIX.github.io/static/js/main.1e4dcee9.js",
+    "main.js": "/react_NFLIX.github.io/static/js/main.309b0f57.js",
     "index.html": "/react_NFLIX.github.io/index.html",
-    "main.1e4dcee9.js.map": "/react_NFLIX.github.io/static/js/main.1e4dcee9.js.map"
+    "main.309b0f57.js.map": "/react_NFLIX.github.io/static/js/main.309b0f57.js.map"
   },
   "entrypoints": [
-    "static/js/main.1e4dcee9.js"
+    "static/js/main.309b0f57.js"
   ]
 }
